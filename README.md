@@ -1,6 +1,6 @@
 政务云内资产管理系统
 效果：
-![首页](doc/index.jpg)
+![首页](doc/index.png)
 
 后台：
 ![后台](doc/admin1.png)
